@@ -1,2 +1,3 @@
 # imgur
-Imgur - https://imgur.com/user/furiyaai/about
+Imgur - https://imgur.com/user/furiyaai
+
